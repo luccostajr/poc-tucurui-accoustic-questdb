@@ -1,0 +1,12 @@
+[2024-04-18 20:43:33]
+Start of Process
+[2024-04-18 20:43:33]
+Start of data creation
+[2024-04-18 20:43:33]
+Created 5491800 lines in 93 ms
+[2024-04-18 20:43:33]
+Start of insertion
+[2024-04-18 20:43:45]
+Inserted 5491800 lines into QuestDB in 11821 ms
+[2024-04-18 20:43:45]
+End of Process in 12000 ms
